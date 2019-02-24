@@ -31,4 +31,5 @@ Here we define where is the meta-channel and how can communities join and suppor
 We accept PR's! Add yourself to the list of contributors.
 
 * [Luis Pujols](https://github.com/pujolsluis)
+* [Kym Phillpotts](https://github.com/kphillpotts)
 
