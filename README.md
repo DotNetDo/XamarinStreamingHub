@@ -3,7 +3,7 @@ The idea of this repo is to provide the basics for our communities to open up th
 
 
 ### Setup
-* Select your Hardware Kit for Streaming.
+* Select your [Hardware Kit](docs/HardwareKits.md) for Streaming.
 * Create your [Streaming Channels](docs/StreamingChannelsSetup.md) application.
 * Setup the Brodcasting Software [OBS Setup](docs/OBSSetup.md) guide.
 * Manage your Livestream event [Zero To Hero](docs/StreamingChannelsSetup.md) guide.
@@ -14,12 +14,12 @@ The idea of this repo is to provide the basics for our communities to open up th
 Here you will find detailed documentation on setting up and using your livestreaming setup.
 
 * [Hardware Kit's For Streaming](docs/HardwareKits.md)
-* [Communities Channels](docs/CommunitiesChannels)
+* [Communities Channels](docs/CommunitiesChannels.md)
 
-**Videos**
-* [Sample Setup of Livestream on Youtube Video](#) 
-* [Sample Setup of Livestream on Twitch Video](#)
-* [Sample Setup of OBS Video](#)
+**Sample Setup Videos**
+* [Livestream on Youtube](#) 
+* [Livestream on Twitch](#)
+* [Setup and broadcast from OBS](#)
 
 ## Community Meta-channel
 Here we define where is the meta-channel and how can communities join and support it all together.
